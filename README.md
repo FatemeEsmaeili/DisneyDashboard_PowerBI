@@ -1,6 +1,6 @@
 # DisneyDashboard_PowerBI
-Hello Aida
-Congradulations for your PR
+Hello dada
+Congradulations for your dd
 :))))))))))))))
 dashboard for Disney animations in details
 this is a second time
